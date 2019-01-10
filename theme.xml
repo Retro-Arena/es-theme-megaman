@@ -30,7 +30,14 @@ author:         By Mr XBlocks and Will Allen
 			<pos>1 1</pos>
 		</helpsystem>	
 
-
+				  	    <text name="logoText" extra="true">
+		    <lineSpacing>02</lineSpacing>
+		  <fontPath>./assets/Bp12228.ttf</fontPath>
+		  <forceUppercase>1</forceUppercase>
+			<fontSize>0.050</fontSize>
+			<color>d5d5d5</color>
+		</text>
+		
 		<image name="logo">
 			<path>./art/${system.theme}.png</path>
 		</image>
