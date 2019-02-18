@@ -4,9 +4,10 @@
 
 	<view name="system">
 <text name="system_description" extra="true">
-			<text>Settings</text>
+			<text>The Commodore Plus/4 is a home computer released by Commodore International in 1984</text>
 		</text>
-
+               
+                
              	</view>
   
 	<view name="basic,detailed,video">

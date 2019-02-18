@@ -4,9 +4,10 @@
 
 	<view name="system">
 <text name="system_description" extra="true">
-			<text>Settings</text>
+			<text>The SAM Coupe is an 8-bit British home computer that was first released in late 1989. It was designed to have compatibility with and is commonly considered a clone of the Sinclair ZX Spectrum computer</text>
 		</text>
-
+               
+                
              	</view>
   
 	<view name="basic,detailed,video">

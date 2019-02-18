@@ -4,9 +4,10 @@
 
 	<view name="system">
 <text name="system_description" extra="true">
-			<text>Settings</text>
+			<text>The Macintosh is a family of personal computers designed, manufactured, and sold by Apple Inc</text>
 		</text>
-
+               
+                
              	</view>
   
 	<view name="basic,detailed,video">

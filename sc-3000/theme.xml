@@ -4,9 +4,10 @@
 
 	<view name="system">
 <text name="system_description" extra="true">
-			<text>Settings</text>
+			<text>The SC-3000 (Sega Computer 3000) is the first and only computer to be designed and manufactured by Sega. It was first released in July of 1983 in Japan</text>
 		</text>
-
+               
+                
              	</view>
   
 	<view name="basic,detailed,video">

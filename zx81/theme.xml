@@ -4,9 +4,10 @@
 
 	<view name="system">
 <text name="system_description" extra="true">
-			<text>Settings</text>
+			<text>The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Dundee, Scotland by Timex Corporation</text>
 		</text>
-
+               
+                
              	</view>
   
 	<view name="basic,detailed,video">

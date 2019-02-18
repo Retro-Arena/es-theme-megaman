@@ -4,9 +4,10 @@
 
 	<view name="system">
 <text name="system_description" extra="true">
-			<text>Settings</text>
+			<text>The Amiga CD32, styled Amiga CD32 and code-named "Spellbound", is a 32 bit home video game console</text>
 		</text>
-
+               
+                
              	</view>
   
 	<view name="basic,detailed,video">
